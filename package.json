@@ -1,0 +1,16 @@
+{
+  "name": "fullstack-lab",
+  "version": "1.0.0",
+  "description": "Node.js lab assignments organized folder-wise.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": ["nodejs", "lab", "assignments"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  }
+}
